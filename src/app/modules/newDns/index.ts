@@ -1,0 +1,1 @@
+export { NewDns } from './newDns'

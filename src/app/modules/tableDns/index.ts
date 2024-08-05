@@ -1,0 +1,1 @@
+export { TableDns } from './table'
